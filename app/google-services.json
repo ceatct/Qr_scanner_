@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651696130032",
+    "project_id": "qr-scanner-646bd",
+    "storage_bucket": "qr-scanner-646bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651696130032:android:b12cab4b3964a1f074ff35",
+        "android_client_info": {
+          "package_name": "com.rabbithole.qrscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARnKWCmHhU3U1LfkHgHKH0NtsJpCWO218"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

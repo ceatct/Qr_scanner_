@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Leitor de QR Code</string>
+    <string name="create">Criar</string>
+    <string name="scan">Digitalizar</string>
+    <string name="history">Histórico</string>
+    <string name="hit">Inserir texto</string>
+    <string name="type_link">Link</string>
+    <string name="type_text">Texto</string>
+    <string name="save">Guardar</string>
+    <string name="saved">Guardado</string>
+    <string name="share">Partilhar QR Code</string>
+    <string name="no_img">Sem imagem para enviar</string>
+    <string name="save_error">Erro ao guardar a imagem</string>
+    <string name="empty_error">A digitalização foi cancelada ou o código QR está vazio</string>
+    <string name="error_noImg">Nenhum código QR encontrado na imagem selecionada</string>
+    <string name="lets">Vamos digitalizar algo!</string>
+</resources>

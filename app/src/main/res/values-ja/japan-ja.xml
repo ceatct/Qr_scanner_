@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QR スキャナー</string>
+    <string name="create">作成</string>
+    <string name="scan">スキャン</string>
+    <string name="history">履歴</string>
+    <string name="hit">テキストを入力</string>
+    <string name="type_link">リンク</string>
+    <string name="type_text">テキスト</string>
+    <string name="save">保存</string>
+    <string name="saved">保存済み</string>
+    <string name="share">QR コードを共有</string>
+    <string name="no_img">送信する画像がありません</string>
+    <string name="save_error">画像の保存中にエラーが発生しました</string>
+    <string name="empty_error">スキャンがキャンセルされたか、QR コードが空です</string>
+    <string name="error_noImg">選択した画像に QR コードが見つかりません</string>
+    <string name="lets">何かをスキャンしましょう！</string>
+</resources>

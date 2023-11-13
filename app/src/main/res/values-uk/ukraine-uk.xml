@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Сканер QR</string>
+    <string name="create">Створити</string>
+    <string name="scan">Сканувати</string>
+    <string name="history">Історія</string>
+    <string name="hit">Введіть текст</string>
+    <string name="type_link">Посилання</string>
+    <string name="type_text">Текст</string>
+    <string name="save">Зберегти</string>
+    <string name="saved">Збережено</string>
+    <string name="share">Поділитися QR-кодом</string>
+    <string name="no_img">Немає зображення для відправлення</string>
+    <string name="save_error">Помилка збереження зображення</string>
+    <string name="empty_error">Сканування скасовано або QR-код порожній</string>
+    <string name="error_noImg">На вибраному зображенні не знайдено QR-коду</string>
+    <string name="lets">Давайте щось скануємо!</string>
+</resources>

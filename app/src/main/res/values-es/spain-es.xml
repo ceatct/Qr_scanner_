@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Escáner QR</string>
+    <string name="create">Crear</string>
+    <string name="scan">Escanear</string>
+    <string name="history">Historial</string>
+    <string name="hit">Introducir texto</string>
+    <string name="type_link">Enlace</string>
+    <string name="type_text">Texto</string>
+    <string name="save">Guardar</string>
+    <string name="saved">Guardado</string>
+    <string name="share">Compartir QR</string>
+    <string name="no_img">No hay imagen para enviar</string>
+    <string name="save_error">Error al guardar la imagen</string>
+    <string name="empty_error">La escaneo fue cancelado o el código QR está vacío</string>
+    <string name="error_noImg">No se encontró ningún código QR en la imagen seleccionada</string>
+    <string name="lets">¡Vamos a escanear algo!</string>
+</resources>

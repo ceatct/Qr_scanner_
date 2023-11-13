@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ماسح الرموز الاستجابة السريعة</string>
+    <string name="create">إنشاء</string>
+    <string name="scan">مسح</string>
+    <string name="history">السجل</string>
+    <string name="hit">أدخل النص</string>
+    <string name="type_link">رابط</string>
+    <string name="type_text">نص</string>
+    <string name="save">حفظ</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="share">مشاركة الرمز الاستجابة السريعة</string>
+    <string name="no_img">لا توجد صورة للإرسال</string>
+    <string name="save_error">حدث خطأ أثناء حفظ الصورة</string>
+    <string name="empty_error">تم إلغاء المسح أو الرمز الاستجابة السريعة فارغ</string>
+    <string name="error_noImg">لم يتم العثور على رمز الاستجابة السريعة في الصورة المحددة</string>
+    <string name="lets">لنقم بمسح شيء ما!</string>
+</resources>

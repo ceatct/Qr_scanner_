@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">क्यूआर स्कैनर</string>
+    <string name="create">बनाएं</string>
+    <string name="scan">स्कैन करें</string>
+    <string name="history">इतिहास</string>
+    <string name="hit">टेक्स्ट दर्ज करें</string>
+    <string name="type_link">लिंक</string>
+    <string name="type_text">टेक्स्ट</string>
+    <string name="save">सहेजें</string>
+    <string name="saved">सहेजा गया</string>
+    <string name="share">क्यूआर कोड साझा करें</string>
+    <string name="no_img">भेजने के लिए कोई छवि नहीं है</string>
+    <string name="save_error">छवि सहेजते समय त्रुटि</string>
+    <string name="empty_error">स्कैन रद्द किया गया था या क्यूआर कोड खाली है</string>
+    <string name="error_noImg">चयनित छवि पर कोई क्यूआर कोड नहीं मिला</string>
+    <string name="lets">चलो कुछ स्कैन करें!</string>
+</resources>

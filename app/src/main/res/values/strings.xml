@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Qr scanner</string>
+    <string name="create">Create</string>
+    <string name="scan">Scan</string>
+    <string name="history">History</string>
+    <string name="hit">Input text</string>
+    <string name="type_link">Link</string>
+    <string name="type_text">Text</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="share">Share Qr</string>
+    <string name="no_img">No image to send</string>
+    <string name="save_error">Error saving image</string>
+    <string name="empty_error">Scan was canceled or QR code is empty</string>
+    <string name="error_noImg">No QR code found on the selected image.</string>
+    <string name="lets">Let\'s scan something!</string>
+</resources>

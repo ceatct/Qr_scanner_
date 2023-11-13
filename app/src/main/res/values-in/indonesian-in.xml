@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pengimbas QR</string>
+    <string name="create">Buat</string>
+    <string name="scan">Pindai</string>
+    <string name="history">Riwayat</string>
+    <string name="hit">Masukkan teks</string>
+    <string name="type_link">Tautan</string>
+    <string name="type_text">Teks</string>
+    <string name="save">Simpan</string>
+    <string name="saved">Tersimpan</string>
+    <string name="share">Bagikan QR Code</string>
+    <string name="no_img">Tidak ada gambar untuk dikirim</string>
+    <string name="save_error">Kesalahan saat menyimpan gambar</string>
+    <string name="empty_error">Pindai dibatalkan atau kode QR kosong</string>
+    <string name="error_noImg">Tidak ada kode QR ditemukan pada gambar yang dipilih</string>
+    <string name="lets">Ayo memindai sesuatu!</string>
+</resources>
