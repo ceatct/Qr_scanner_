@@ -105,7 +105,7 @@ class MyApplication: Application(), Application.ActivityLifecycleCallbacks, Life
             val request = AdRequest.Builder().build()
             AppOpenAd.load(
                 context,
-                "ca-app-pub-7629141945370293/4086997394",
+                "",
                 request,
                 AppOpenAd.APP_OPEN_AD_ORIENTATION_PORTRAIT,
                 object: AppOpenAd.AppOpenAdLoadCallback(){
