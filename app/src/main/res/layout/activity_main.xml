@@ -10,7 +10,7 @@
     <com.google.android.gms.ads.AdView
         android:id="@+id/bannerAd"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-7629141945370293/3800094928"
+        ads:adUnitId=""
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
